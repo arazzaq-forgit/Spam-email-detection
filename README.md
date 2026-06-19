@@ -7,6 +7,10 @@ This project uses Machine Learning and Natural Language Processing (NLP) to clas
 The application is built using Python, Scikit-learn, and Streamlit.
 
 ---
+DEMO
+
+<img width="1920" height="923" alt="appscreenshot(2)" src="https://github.com/user-attachments/assets/d2e2b9fc-6090-4411-b3a4-3b476c35621e" />
+<img width="1920" height="925" alt="appscreenshot(1)" src="https://github.com/user-attachments/assets/103f017e-444b-4279-a98e-672c78297ade" />
 
 ## 🚀 Features
 
