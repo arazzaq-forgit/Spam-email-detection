@@ -45,6 +45,16 @@ DEMO
 Best Model: **Logistic Regression**
 
 ---
+## 🚀 Quick Prediction
+
+```python
+from predict import predict_spam
+
+result = predict_spam("Win a free iPhone now!")
+print(result)  # Output: Spam
+```
+
+No need to retrain — model is ready to use!
 
 ## 📂 Project Structure
 
