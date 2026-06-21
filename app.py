@@ -5,7 +5,7 @@ import joblib
 model = joblib.load("spam_model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
-# App Title
+# App Title 
 st.set_page_config(page_title="Spam Email Detector", page_icon="📧")
 
 st.title("📧 Spam Email Detection")
