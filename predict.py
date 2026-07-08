@@ -10,7 +10,7 @@ with open('models/spam_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 with open('models/vectorizer.pkl', 'rb') as f:
-    vectorizer = pickle.load(f)
+    vectorizer = pickle.load(f) 
 
 
 def predict_spam(email_text: str) -> str:
